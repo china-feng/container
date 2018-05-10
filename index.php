@@ -4,6 +4,7 @@
  * User: Administrator
  * Date: 2018/5/10
  * Time: 13:17
+ * 简单说明php 注入依赖容器
  */
 class Bim
 {
